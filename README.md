@@ -3,7 +3,7 @@
 
 ### Goal: Prepare tidy data that can be used for later analysis.
 
-This project is about __weareble computing__, also known as body-borne computers or wearebles. These are miniature
+This project is about __wearable computing__, also known as body-borne computers or wearebles. These are miniature
 electronic devices that are worn by the bearer under, with or on top clothing.
 
 The data represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
@@ -32,6 +32,6 @@ Following are the steps used in the script:
 * Getting all files together in one big Dataset.
 * Merging to add the activity labels for each row.
 * Release memory.
-* Getting the tidy data for columns that meassures mean and standard deviation.
+* Getting the tidy data for columns that measures mean and standard deviation.
 * Grouping by Subject and Activity, and compute the average for each column.
 * Writing to a txt file.
