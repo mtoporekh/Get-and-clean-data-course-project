@@ -4,12 +4,12 @@
 			1 - 30
 			
 * **Activity**	Activity performed by subject 
-			WALKING
-			WALKING_UPSTAIRS
-			WALKING_DOWNSTAIRS
-			SITTING
-			STANDING
-			LAYING
+			* WALKING
+			* WALKING_UPSTAIRS
+			* WALKING_DOWNSTAIRS
+			* SITTING
+			* STANDING
+			* LAYING
 			
 ### All of the following are numeric values:
 			
