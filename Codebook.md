@@ -1,9 +1,9 @@
 ## DATA DICTIONARY - AVERAGE OF EACH VARIABLE FOR EACH ACTIVITY AND SUBJECT
 
-* Subject	Subject ID
+* **Subject**	Subject ID
 			1 - 30
 			
-* Activity	Activity performed by subject 
+* **Activity**	Activity performed by subject 
 			WALKING
 			WALKING_UPSTAIRS
 			WALKING_DOWNSTAIRS
