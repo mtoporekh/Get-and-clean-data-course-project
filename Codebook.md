@@ -13,23 +13,23 @@
 			
 ### All of the following are numeric values:
 			
-* tBodyAcc.mean.X	Average for the subject-activity average of the body accelerator signal in the time domain in the X-axis
+* **tBodyAcc.mean.X**	Average for the subject-activity average of the body accelerator signal in the time domain in the X-axis
 
-* tBodyAcc.mean.Y	Average for the subject-activity average of the body accelerator signal in the time domain in the Y-axis
+* **tBodyAcc.mean.Y**	Average for the subject-activity average of the body accelerator signal in the time domain in the Y-axis
 
-* tBodyAcc.mean.Z	Average for the subject-activity average of the body accelerator signal in the time domain in the Z-axis
+* **tBodyAcc.mean.Z**	Average for the subject-activity average of the body accelerator signal in the time domain in the Z-axis
 
-* tGravityAcc.mean.X	Average for the subject-activity average of the gravity accelerator signal in the time domain in the X-axis
+* **tGravityAcc.mean.X**	Average for the subject-activity average of the gravity accelerator signal in the time domain in the X-axis
 
-* tGravityAcc.mean.Y	Average for the subject-activity average of the gravity accelerator signal in the time domain in the Y-axis
+* **tGravityAcc.mean.Y**	Average for the subject-activity average of the gravity accelerator signal in the time domain in the Y-axis
 
-* tGravityAcc.mean.Z	Average for the subject-activity average of the gravity accelerator signal in the time domain in the Z-axis
+* **tGravityAcc.mean.Z**	Average for the subject-activity average of the gravity accelerator signal in the time domain in the Z-axis
 
-* tBodyAccJerk.mean.X	Average for the subject-activity average of the body accelerator jerk signal in the time domain in the X-axis
+* **tBodyAccJerk.mean.X**	Average for the subject-activity average of the body accelerator jerk signal in the time domain in the X-axis
 
-* tBodyAccJerk.mean.Y	Average for the subject-activity average of the body accelerator jerk signal in the time domain in the Y-axis
+* **tBodyAccJerk.mean.Y**	Average for the subject-activity average of the body accelerator jerk signal in the time domain in the Y-axis
 
-* tBodyAccJerk.mean.Z	Average for the subject-activity average of the body accelerator jerk signal in the time domain in the Z-axis
+* **tBodyAccJerk.mean.Z**	Average for the subject-activity average of the body accelerator jerk signal in the time domain in the Z-axis
 
 * tBodyGyro.mean.X		Average for the subject-activity average of the body angular velocity signal in the time domain in the X-axis
 
