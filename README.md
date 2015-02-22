@@ -3,7 +3,7 @@
 
 ### Goal: Prepare tidy data that can be used for later analysis.
 
-This project is about _weareble computing_, also known as body-borne computers or wearebles. These are miniature
+This project is about __weareble computing__, also known as body-borne computers or wearebles. These are miniature
 electronic devices that are worn by the bearer under, with or on top clothing.
 
 The data represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
@@ -22,7 +22,7 @@ The gravitational force is assumed to have only low frequency components, theref
 From each window, a vector of features was obtained by calculating variables from the time and frequency domain. 
 
 Having the dataset (raw data) I build script to get a tidy data set with the average of each variable for each activity and each subject.
-The script has been added to this repository as *run_analysis.R*.
+The script has been added to this repository as **run_analysis.R**.
 
 Following are the steps used in the script:
 
