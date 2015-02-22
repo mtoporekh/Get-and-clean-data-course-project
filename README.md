@@ -31,7 +31,7 @@ Following are the steps used in the script:
 * Load and read all datasets to use.
 * Getting all files together in one big Dataset.
 * Merging to add the activity labels for each row.
-* Just to remove and release memory.
+* Release memory.
 * Getting the tidy data for columns that meassures mean and standard deviation.
 * Grouping by Subject and Activity, and compute the average for each column.
 * Writing to a txt file.
